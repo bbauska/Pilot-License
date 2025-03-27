@@ -55,11 +55,10 @@ of the aircraft and the safety of the flight. Some aircraft may require addition
 authorization to act as PIC, known as receiving an endorsement, such as tailwheel or 
 high-performance aircraft.
 
-# Instrument License
-
-
 ### How Long Does It Take to Earn a Private Pilot License?
 The amount of time required to earn a private pilot certificate varies and largely depends on 
 weather, availability, finances, and how often a student is available to fly. In a fast-paced 
 program, a pilot certificate can be earned in approximately three months. For other students 
 who are only able to fly once in a while a pilot certificate could take a couple years.
+
+# Instrument Rating
